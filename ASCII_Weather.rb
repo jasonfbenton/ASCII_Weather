@@ -4,7 +4,7 @@ require_relative 'API_Key'
 
 # Add your own API key to API_Key.rb in the same dir
 # Get one here: https://developer.forecast.io/
-# ForecastIO.api_key = API_KEY
+# ForecastIO.api_key = '<your API key>'
 
 prompt = "> "
 
