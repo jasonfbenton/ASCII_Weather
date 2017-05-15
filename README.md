@@ -8,6 +8,6 @@ You'll need an API key from https://developer.forecast.io/
 Create a file called API_Key.rb in the same dir as ASCII_Weather.rb
 Add the line:
 
-API_KEY = '\<your API key\>'
+ForecastIO.api_key = '\<your API key\>'
 
 
